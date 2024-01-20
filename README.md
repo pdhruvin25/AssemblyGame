@@ -2,6 +2,8 @@
 
 "The Ghost of Manz" is an intriguing and challenging game developed in MIPS assembly language as part of a project for CSCB58. Players are immersed in a haunting and mysterious world filled with puzzles, obstacles, and the enigmatic Ghost of Manz. The assembly language development adds a unique and technical aspect to the gaming experience.
 
+##Link: https://www.youtube.com/watch?v=w93fJ3kxfTM**
+
 ## Gameplay
 
 ### Ghostly Adventure
